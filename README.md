@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oluwarotimii
-- 👀 I’m interested in ... Software Engineering and Artificial intelligence.
-- 🌱 I’m currently learning ... Software Engineering 
+- 🌱 I’m currently learning ... Application Development  (React-native)
 - 💞️ I’m looking to collaborate on ... Projects related to Application development 
 - 📫 How to reach me ... Email : oluwarotimiadewumi@gmail.com
 
