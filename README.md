@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oluwarotimii
-- 🌱 I’m currently learning ... Application Development  (React-native)
-- 💞️ I’m looking to collaborate on ... Projects related to Application development 
+- 🌱 I’m currently learning ... Web3
+- 💞️ I’m looking to collaborate on ... Projects related to DApps
 - 📫 How to reach me ... Email : oluwarotimiadewumi@gmail.com
 
 <!---
