@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oluwarotimii
-- 🌱 I’m currently learning ... Python got AI and ML
+- 🌱 I’m currently learning ... Python, AI and ML
 - 💞️ I’m looking to collaborate on ... Projects related to Software development
 - 📫 How to reach me ... Email : oluwarotimiadewumi@gmail.com
 
