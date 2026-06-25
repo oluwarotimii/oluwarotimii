@@ -1,9 +1,4 @@
-<h1 align="center">Oluwarotimi Adewumi</h1>
-<p align="center">
-  <strong>Full Stack Software Developer</strong> · Nigeria 🇳🇬
-  <br/>
-  Building end-to-end products — from database to deployed app
-</p>
+
 <p align="center">
   <a href="https://oluwarotimi.vercel.app/">Portfolio</a> ·
   <a href="mailto:oluwarotimiadewumi@gmail.com">Email</a> ·
@@ -43,23 +38,26 @@ I'm a full stack developer with **3+ years** building real products — fintech 
 
 ---
 
-# 🚢 Things I've Shipped
+# 🚢 Projects
 
 | 🚀 Project | 📌 What it does | 🛠️ Stack |
 | ---------- | --------------- | -------- |
 | [Femtech Commerce App](https://play.google.com/store/apps/details?id=com.femtech.femtechmobileapp&hl=en) | E-commerce app — **5,000+ downloads**, live on App Store & Play Store | React Native · Paystack · EAS |
+| [Service Feedback App and Web](https://servicezone.vercel.app/)  | Responsive company website | Next.js · Tailwind CSS | Typescript | PWA | Neon | PostgreSql
+| [Service Feedback Mobile App ](https://github.com/oluwarotimii/feedbackapp)  | Responsive company website | Next.js · Tailwind CSS | Typescript | PWA | Neon | PostgreSql
 | [Fortress FM Mobile](https://play.google.com/store/apps/details?id=com.kelweb.fortressFM) | Live radio streaming + news app with background audio | React Native · WordPress REST API |
+| [Human Resource Software](https://github.com/oluwarotimii/FemPWA) | | Responsive company website | Next.js · Tailwind CSS | Node JS | Prisma | Typescript | PWA
+| [Solar Operations Managament App](https://github.com/oluwarotimii/solar-ops) | Responsive company website | Next.js · Tailwind CSS | Node JS | Prisma | Typescript | PWA
 | [EventsFlow](https://eventsflow.vercel.app/) | Event management and tracking platform | Next.js · TypeScript |
 | [Edflow](https://edflow.vercel.app/) | School management system — assessments, attendance, admin | Next.js · PostgreSQL |
 | [Tripa](https://tripa.com.ng/) | NFC-enabled transit payment infrastructure | Next.js · TypeScript |
 | [Bank Transaction Analyzer](https://github.com/oluwarotimii/banking-transcactions) | PDF bank statement forensics — detects duplicates, refunds, losses | Python |
-| [Datolla Website](https://datolla.vercel.app/) | Responsive company website | Next.js · Tailwind CSS |
 
 ---
 
 # 📍 Currently
 
-- 🔭 Working at **Looper** (remote) and **Femtech IT** (Ilorin)
+- 🔭 Working at **Looper**  and **Femtech IT** 
 - 🌱 Going deeper on **Python, ML, and robotics engineering**
 - 🤖 Exploring AI-powered systems and automation
 - 👨‍🏫 Teaching Tech
