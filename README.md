@@ -1,3 +1,16 @@
+<h1 align="center">Oluwarotimi Adewumi</h1>
+<p align="center">
+  <strong>Full Stack Software Developer</strong> · Nigeria 🇳🇬
+  <br/>
+  Building end-to-end products — from database to deployed app
+</p>
+<p align="center">
+  <a href="https://oluwarotimi.vercel.app/">Portfolio</a> ·
+  <a href="mailto:oluwarotimiadewumi@gmail.com">Email</a> ·
+  <a href="https://x.com/olluwarotimi">Twitter / X</a>
+</p>
+
+
 ---
 
 # 👋 About Me
