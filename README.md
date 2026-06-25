@@ -46,7 +46,7 @@ I'm a full stack developer with **3+ years** building real products — fintech 
 | [Service Feedback App and Web](https://servicezone.vercel.app/)  | Responsive company website | Next.js · Tailwind CSS | Typescript | PWA | Neon | PostgreSql
 | [Service Feedback Mobile App ](https://github.com/oluwarotimii/feedbackapp)  | Responsive company website | Next.js · Tailwind CSS | Typescript | PWA | Neon | PostgreSql
 | [Fortress FM Mobile](https://play.google.com/store/apps/details?id=com.kelweb.fortressFM) | Live radio streaming + news app with background audio | React Native · WordPress REST API |
-| [Human Resource Software](https://github.com/oluwarotimii/FemPWA) | | Responsive company website | Next.js · Tailwind CSS | Node JS | Prisma | Typescript | PWA
+| [Human Resource Software](https://github.com/oluwarotimii/FemPWA) | | Responsive company website | React · Tailwind CSS | Node JS | Prisma | Typescript | PWA
 | [Solar Operations Managament App](https://github.com/oluwarotimii/solar-ops) | Responsive company website | Next.js · Tailwind CSS | Node JS | Prisma | Typescript | PWA
 | [EventsFlow](https://eventsflow.vercel.app/) | Event management and tracking platform | Next.js · TypeScript |
 | [Edflow](https://edflow.vercel.app/) | School management system — assessments, attendance, admin | Next.js · PostgreSQL |
